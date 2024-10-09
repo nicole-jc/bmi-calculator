@@ -33,7 +33,7 @@ const texts = {
         btn: "Calculate",
         resultMessage: "Your BMI is: ",
         classificationMessages: {
-            underweight: "wich is considered underweight",
+            underweight: "which is considered underweight",
             overweight: "which is considered overweight",
             normal: "which is considered normal"
         }
